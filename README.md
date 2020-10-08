@@ -1,0 +1,1 @@
+NVIDIA GTC Deep Learning Institute (DLI) 深度學習實作課程 – 運用 RAPIDS 加速資料科學的基本原理
